@@ -1,7 +1,7 @@
 {
   "speakers": [
     {
-      "speaker_image": "",
+      "speaker_image": "https://media.licdn.com/dms/image/C4E03AQHOHyrHRovY6w/profile-displayphoto-shrink_800_800/0?e=1580342400&v=beta&t=6dp5gdQOroW3myPgqDlAWytcWmmLFM50wTBnQdzsf6c",
       "speaker_name": "Aram Nazaryan",
       "speaker_desc": "Senior Android Developer/Technical Lead at PicsArt Inc",
       "speaker_session": "Panel discussion: Native vs Hybrid app development",
@@ -23,7 +23,7 @@
     {
       "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/71314754_2180656465567928_6270035606525444096_n.jpg?_nc_cat=101&_nc_ohc=q0mhJR7Vi3IAQmLk2nkEIL4DOI5jMqVBYxmu2-TVI3qa7-MY4uplBtkBg&_nc_ht=scontent.fevn3-2.fna&oh=7dbf3b50fc6038d880681fa1b0a2a9f5&oe=5E492ABC",
       "speaker_name": "Astghik Petrosyan",
-      "speaker_desc": "Co-founder, meettal",
+      "speaker_desc": "Co-founder at meettal",
       "speaker_session": "Panel discussion: Native vs Hybrid app development ",
       "fb_url": "https://www.facebook.com/ach9er",
       "github_url": "",
@@ -33,7 +33,7 @@
     {
       "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/13521839_10204931796374664_5012068817156421075_n.jpg?_nc_cat=108&_nc_ohc=AULG5QR2yOYAQlPnclBxjbtS9eIjfNiLMZTcNuQPDS2EkRwPOrVjMsq1w&_nc_ht=scontent.fevn3-2.fna&oh=8b1aede0707f8d52045d71196b35122a&oe=5E88EF96",
       "speaker_name": "Davit Siradeghyan",
-      "speaker_desc": "Sr. Software Engineer, DISQO / iOS",
+      "speaker_desc": "Sr. Software Engineer at DISQO / iOS",
       "speaker_session": "Panel discussion: Native vs Hybrid app development",
       "fb_url": "https://www.facebook.com/davit.siradeghyan",
       "github_url": "",
@@ -43,7 +43,7 @@
     {
       "speaker_image": "https://media.licdn.com/dms/image/C4D03AQHHwdrIg_64eg/profile-displayphoto-shrink_800_800/0?e=1580342400&v=beta&t=4y4MhHFQXj0Xx_6IqQYE2zjOzr5yrXTn-jaNFxw-z2c",
       "speaker_name": "Gevorg Soghomonian",
-      "speaker_desc": "Founder at Aimhub",
+      "speaker_desc": "CEO at Aimhub",
       "speaker_session": "Panel discussion: State of Cloud 2020",
       "fb_url": "https://www.facebook.com/gevorgs1",
       "github_url": "",
@@ -53,11 +53,31 @@
     {
       "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/42458916_1628031427297962_441926412199264256_o.jpg?_nc_cat=101&_nc_ohc=NWsr0xEx2YUAQlOWjrTS_udV4q6WEOdHmaXw3uMoU9AT_LBfRtyzmwTVQ&_nc_ht=scontent.fevn3-2.fna&oh=33dd861857c6529a7afa5446f46e1d28&oe=5E8284A2",
       "speaker_name": "Gurgen Hovhannisyan",
-      "speaker_desc": "CTO, Digital Pomegranate",
+      "speaker_desc": "CTO at Digital Pomegranate",
       "speaker_session": "Revival of Dart with Flutter",
       "fb_url": "https://www.facebook.com/gurgen.hovhannisyan.16",
       "github_url": "",
       "linkedin_url": "https://linkedin.com/in/gurgen-hovhannisyan-a83994147",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "https://media.licdn.com/dms/image/C5603AQE1VW8sDPVSkg/profile-displayphoto-shrink_800_800/0?e=1580342400&v=beta&t=KBsxTk7iwsS5MfoN_8anaW-RPXPGmIhYm7FUICd84Yo",
+      "speaker_name": "Hayk Gevorgyan",
+      "speaker_desc": "DevOps Engineer at Webb Fontaine Holding LLC- Armenia",
+      "speaker_session": "Panel discussion: State of Cloud 2020",
+      "fb_url": "https://www.facebook.com/Hayk.G.Gev",
+      "github_url": "",
+      "linkedin_url": "https://www.linkedin.com/in/gevorgyanhayk/",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "https://media.licdn.com/dms/image/C4D03AQHZFyIXnJEqeA/profile-displayphoto-shrink_800_800/0?e=1580342400&v=beta&t=jlC93pupLTIoP4PqFtp2QMFt52gYb2SbT8eqZBNd3nI",
+      "speaker_name": "Hayk Poghosyan",
+      "speaker_desc": "Machine Learning Engineer at 10Web.io",
+      "speaker_session": "Rethinking of web development with AI ",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "https://www.linkedin.com/in/hayk-poghosyan-793b97198/",
       "twitter_url": ""
     },
     {
@@ -71,9 +91,19 @@
       "twitter_url": ""
     },
     {
-      "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t31.0-8/s960x960/29354775_1721692654555961_46656170113772923_o.jpg?_nc_cat=103&_nc_ohc=Eynp7ZqDYsEAQn-b62uiOz7KkLRo74Gg3zatchfbIRN3x8MMOvTiulfag&_nc_ht=scontent.fevn3-2.fna&oh=e22090755f69c5418d2f923a0865b701&oe=5E4B8954",
+      "speaker_image": "https://media.licdn.com/dms/image/C4E03AQFgguufXnv4CQ/profile-displayphoto-shrink_800_800/0?e=1580342400&v=beta&t=e7r_JJEjxvcwpqkGvqA3QaU3nIXnJEYT8Vl2dz8uamc",
+      "speaker_name": "Lilit Gavrielyan",
+      "speaker_desc": "Senior Software Engineer at DISQO",
+      "speaker_session": "Panel discussion: State of Cloud 2020",
+      "fb_url": "https://www.facebook.com/lilit.gabrielyan.54",
+      "github_url": "",
+      "linkedin_url": "https://www.linkedin.com/in/lilit-gabrielyan/",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "https://scontent.fevn1-2.fna.fbcdn.net/v/t1.0-9/s960x960/49376832_2087169641341592_6601301486263599104_o.jpg?_nc_cat=103&_nc_ohc=LIfhDeUvr98AQmMU9nqc2Z2zQ1CnmDJzCiV1m3-2PK9DvKJltF83joMjw&_nc_ht=scontent.fevn1-2.fna&oh=440918b00ed081523e8ae3c32b67e2d1&oe=5E87E129",
       "speaker_name": "Merab Tato Kutalia",
-      "speaker_desc": "Android Developer, GDG Tbilisi / eMoney Georgia",
+      "speaker_desc": "Android Developer at eMoney, Georgia",
       "speaker_session": "Defensive Programming x FinTech",
       "fb_url": "https://www.facebook.com/tatocaster/photos?lst=100004624082643%3A100001457283051%3A1574968550",
       "github_url": "https://github.com/tatocaster",
@@ -81,9 +111,19 @@
       "twitter_url": "https://twitter.com/TatoKutalia"
     },
     {
+      "speaker_image": "",
+      "speaker_name": "Mher Veziryan",
+      "speaker_desc": "Web Developer at 10Web",
+      "speaker_session": "Rethinking of web development with AI ",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "https://www.linkedin.com/in/mherveziryan/",
+      "twitter_url": ""
+    },
+    {
       "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/73151303_3075931402421814_5490471653294997504_n.jpg?_nc_cat=109&_nc_ohc=mzhmeeLprDkAQmGzry6BHRuC0skbPpi4NZRCau4mc8Htz3-ZA-jHrAnXg&_nc_ht=scontent.fevn3-2.fna&oh=cb885a642b9489934dcdf99b9ba6c032&oe=5E8276F3",
       "speaker_name": "Minas Keshishyan",
-      "speaker_desc": "CEO, Appress",
+      "speaker_desc": "CEO at Appress",
       "speaker_session": "Computational Photography ",
       "fb_url": "https://www.facebook.com/minas90k",
       "github_url": "",
@@ -93,11 +133,21 @@
     {
       "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/49371982_2256030168018819_5221018363060289536_n.jpg?_nc_cat=101&_nc_ohc=lfz6mu4Ee_MAQl2eogQbgCFqcmkKpZWgh_aNG7mfDijKUb8tCGjSodSzQ&_nc_ht=scontent.fevn3-2.fna&oh=ce0169aa014d2eb5dedcdae88dd7d0c2&oe=5E83DD96",
       "speaker_name": "Roman Daneghyan",
-      "speaker_desc": "E-marketing team lead, Renderforest",
+      "speaker_desc": "E-marketing team lead at Renderforest",
       "speaker_session": "Panel discussion: The future of search",
       "fb_url": "https://www.facebook.com/daneghyanroman/",
       "github_url": "",
       "linkedin_url": "https://www.linkedin.com/in/roman-daneghyan/",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/74348155_394120864864326_156735846395936768_o.jpg?_nc_cat=102&_nc_ohc=V3Wqvfqs-sIAQnP1j_6JwQpQHt3KsE0Lg3RWvaCuIiZmmqROZWzlOwFJQ&_nc_ht=scontent.fevn3-2.fna&oh=1de98745e5fe1b4c0646e2ae900ff307&oe=5E4134CE",
+      "speaker_name": "Tigran Gevorgyan",
+      "speaker_desc": "SRE at Workfront / AWS",
+      "speaker_session": "Panel discussion: State of Cloud 2020",
+      "fb_url": "https://www.facebook.com/profile.php?id=100027992468132",
+      "github_url": "",
+      "linkedin_url": "",
       "twitter_url": ""
     },
     {
@@ -111,13 +161,114 @@
       "twitter_url": ""
     },
     {
-      "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/49371982_2256030168018819_5221018363060289536_n.jpg?_nc_cat=101&_nc_ohc=lfz6mu4Ee_MAQl2eogQbgCFqcmkKpZWgh_aNG7mfDijKUb8tCGjSodSzQ&_nc_ht=scontent.fevn3-2.fna&oh=ce0169aa014d2eb5dedcdae88dd7d0c2&oe=5E83DD96",
-      "speaker_name": "Roman Daneghyan",
-      "speaker_desc": "E-marketing team lead, Renderforest",
-      "speaker_session": "Panel discussion: The future of search",
-      "fb_url": "https://www.facebook.com/daneghyanroman/",
+      "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/p960x960/74425024_2741459845898544_3488648316445523968_o.jpg?_nc_cat=100&_nc_ohc=Mc_0adq1iXIAQmM2pdn31C03hcoLoJmqjFTFGDAmYE_gJGqVp1DTZ_dpg&_nc_ht=scontent.fevn3-2.fna&oh=bd25baff57ff00b120daa381a6fbce21&oe=5E454F0E",
+      "speaker_name": "Vahe Karamyan",
+      "speaker_desc": "Game Developer at Rockbite Games - Armenia",
+      "speaker_session": "Increasing revenue using Firebase Predictions and A/B Testing",
+      "fb_url": "https://www.facebook.com/vuvukar",
       "github_url": "",
-      "linkedin_url": "https://www.linkedin.com/in/roman-daneghyan/",
+      "linkedin_url": "https://www.linkedin.com/in/vahe-karamyan-b41014126/",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/68303356_10211860363819142_1195457323108139008_o.jpg?_nc_cat=102&_nc_ohc=0LYaHECDNwUAQlpAbv7xi2z2aU7D0_g2AUpy1G3IEjvKAv4qXvfnr8GCA&_nc_ht=scontent.fevn3-2.fna&oh=f3da02d681835199573b634da7039a04&oe=5E742F5F",
+      "speaker_name": "Vanush Ghamaryan",
+      "speaker_desc": "Software Engineer at 10Web",
+      "speaker_session": "What is AMP and how it speeds up Web browsing",
+      "fb_url": "https://www.facebook.com/vanushkamaryan",
+      "github_url": "",
+      "linkedin_url": "https://www.linkedin.com/in/vanush-ghamaryan-628b8366/",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/p960x960/60346696_2338584716206076_7529139929733922816_o.jpg?_nc_cat=101&_nc_ohc=ZmrwjuIEgiEAQmgOMv7DlUXPrQlOqzFS3JYKFberVByPF3lvPxK96nPwA&_nc_ht=scontent.fevn3-2.fna&oh=20d9d2a0fa739df965b5565f6b0b5c61&oe=5E480B29",
+      "speaker_name": "Vardan Papikyan",
+      "speaker_desc": "GDG Yerevan community organizer",
+      "speaker_session": "Panel discussion: The future of search",
+      "fb_url": "https://www.facebook.com/vardan.papikyan",
+      "github_url": "",
+      "linkedin_url": "https://www.linkedin.com/in/vardanpapikyan/",
+      "twitter_url": ""
+    },
+
+    {
+      "speaker_image": "",
+      "speaker_name": "",
+      "speaker_desc": "",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "",
+      "speaker_name": "",
+      "speaker_desc": "",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "",
+      "speaker_name": "",
+      "speaker_desc": "",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "",
+      "speaker_name": "",
+      "speaker_desc": "",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "",
+      "speaker_name": "",
+      "speaker_desc": "",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "",
+      "speaker_name": "",
+      "speaker_desc": "",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "",
+      "speaker_name": "",
+      "speaker_desc": "",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
+      "twitter_url": ""
+    },
+    {
+      "speaker_image": "",
+      "speaker_name": "",
+      "speaker_desc": "",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
       "twitter_url": ""
     }
   ]
