@@ -13,7 +13,7 @@ class MapPage extends StatefulWidget {
 class _MapPageState extends State<MapPage> {
   GoogleMapController _controller;
   bool isMapCreated = false;
-  static final LatLng myLocation = LatLng(37.42796133580664, -122.085749655962);
+  static final LatLng myLocation = LatLng(40.210704, 44.503510);
 
   @override
   void initState() {
@@ -22,7 +22,7 @@ class _MapPageState extends State<MapPage> {
 
   final CameraPosition _kGooglePlex = CameraPosition(
     target: myLocation,
-    zoom: 14.4746,
+    zoom: 17,
   );
 
   Set<Marker> _createMarker() {
@@ -83,13 +83,13 @@ class _MapPageState extends State<MapPage> {
                   child: RichText(
                     textAlign: TextAlign.center,
                     text: TextSpan(
-                        text: "Google Office\n",
+                        text: "Russian-Armenian University\n",
                         style: Theme.of(context).textTheme.title.copyWith(
                               fontWeight: FontWeight.bold,
                             ),
                         children: [
                           TextSpan(
-                              text: "Shoreline Amphitheatre, Mountain View, CA",
+                              text: "123 Hovsep Emin, Yerevan, Armenia",
                               style: Theme.of(context).textTheme.subtitle,
                               children: []),
                         ]),

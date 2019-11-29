@@ -45,15 +45,15 @@ class SpeakerPage extends StatelessWidget {
                 launch(speaker.linkedinUrl);
               },
             ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.github,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speaker.githubUrl);
-              },
-            ),
+//            IconButton(
+//              icon: Icon(
+//                FontAwesomeIcons.github,
+//                size: 15,
+//              ),
+//              onPressed: () {
+//                launch(speaker.githubUrl);
+//              },
+//            ),
           ],
         ),
       );

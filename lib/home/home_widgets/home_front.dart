@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_devfest/agenda/agenda_page.dart';
 import 'package:flutter_devfest/config/index.dart';
 import 'package:flutter_devfest/map/map_page.dart';
+import 'package:flutter_devfest/speakers/speaker_page.dart';
 import 'package:flutter_devfest/sponsors/sponsor_page.dart';
 import 'package:flutter_devfest/team/team_page.dart';
 import 'package:flutter_devfest/universal/image_card.dart';
@@ -45,6 +46,13 @@ class HomeFront extends StatelessWidget {
             color: Colors.red,
             title: Devfest.agenda_text,
             onPressed: () => Navigator.pushNamed(context, AgendaPage.routeName),
+          ),
+          ActionCard(
+            icon: Icons.person,
+            color: Colors.green,
+            title: Devfest.speakers_text,
+            onPressed: () =>
+                Navigator.pushNamed(context, SpeakerPage.routeName),
           ),
           ActionCard(
             icon: Icons.people,
