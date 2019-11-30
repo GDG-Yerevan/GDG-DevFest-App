@@ -54,7 +54,7 @@
       "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/42458916_1628031427297962_441926412199264256_o.jpg?_nc_cat=101&_nc_ohc=NWsr0xEx2YUAQlOWjrTS_udV4q6WEOdHmaXw3uMoU9AT_LBfRtyzmwTVQ&_nc_ht=scontent.fevn3-2.fna&oh=33dd861857c6529a7afa5446f46e1d28&oe=5E8284A2",
       "speaker_name": "Gurgen Hovhannisyan",
       "speaker_desc": "CTO at Digital Pomegranate",
-      "speaker_session": "Revival of Dart with Flutter",
+      "speaker_session": "Revival of Dart with Flutter, Panel discussion: Native vs Hybrid app development",
       "fb_url": "https://www.facebook.com/gurgen.hovhannisyan.16",
       "github_url": "",
       "linkedin_url": "https://linkedin.com/in/gurgen-hovhannisyan-a83994147",
@@ -92,7 +92,7 @@
     },
     {
       "speaker_image": "https://media.licdn.com/dms/image/C4E03AQFgguufXnv4CQ/profile-displayphoto-shrink_800_800/0?e=1580342400&v=beta&t=e7r_JJEjxvcwpqkGvqA3QaU3nIXnJEYT8Vl2dz8uamc",
-      "speaker_name": "Lilit Gavrielyan",
+      "speaker_name": "Lilit Gabrielyan",
       "speaker_desc": "Senior Software Engineer at DISQO",
       "speaker_session": "Panel discussion: State of Cloud 2020",
       "fb_url": "https://www.facebook.com/lilit.gabrielyan.54",
@@ -111,7 +111,7 @@
       "twitter_url": "https://twitter.com/TatoKutalia"
     },
     {
-      "speaker_image": "",
+      "speaker_image": "https://scontent.fevn1-2.fna.fbcdn.net/v/t1.15752-9/78356061_416999882540466_2564875111060471808_n.jpg?_nc_cat=104&_nc_ohc=xF_PQC7SoukAQn5Fy281cINzqin2pnAOMcwq4Mw5RvJPJtWOsVzZobwLg&_nc_ht=scontent.fevn1-2.fna&oh=089865d563b07866d253f661e9a28044&oe=5E7B242C",
       "speaker_name": "Mher Veziryan",
       "speaker_desc": "Web Developer at 10Web",
       "speaker_session": "Rethinking of web development with AI ",
@@ -153,8 +153,8 @@
     {
       "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/p960x960/60346696_2338584716206076_7529139929733922816_o.jpg?_nc_cat=101&_nc_ohc=ZmrwjuIEgiEAQmgOMv7DlUXPrQlOqzFS3JYKFberVByPF3lvPxK96nPwA&_nc_ht=scontent.fevn3-2.fna&oh=20d9d2a0fa739df965b5565f6b0b5c61&oe=5E480B29",
       "speaker_name": "Vardan Papikyan",
-      "speaker_desc": "GDG Yerevan community organizer",
-      "speaker_session": "Opening",
+      "speaker_desc": "Founder of Neomedia, SEO Expert",
+      "speaker_session": "Opening, Panel discussion: The future of search",
       "fb_url": "https://www.facebook.com/vardan.papikyan",
       "github_url": "",
       "linkedin_url": "https://www.linkedin.com/in/vardanpapikyan/",
@@ -180,15 +180,5 @@
       "linkedin_url": "https://www.linkedin.com/in/vanush-ghamaryan-628b8366/",
       "twitter_url": ""
     },
-    {
-      "speaker_image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/p960x960/60346696_2338584716206076_7529139929733922816_o.jpg?_nc_cat=101&_nc_ohc=ZmrwjuIEgiEAQmgOMv7DlUXPrQlOqzFS3JYKFberVByPF3lvPxK96nPwA&_nc_ht=scontent.fevn3-2.fna&oh=20d9d2a0fa739df965b5565f6b0b5c61&oe=5E480B29",
-      "speaker_name": "Vardan Papikyan",
-      "speaker_desc": "GDG Yerevan community organizer",
-      "speaker_session": "Panel discussion: The future of search",
-      "fb_url": "https://www.facebook.com/vardan.papikyan",
-      "github_url": "",
-      "linkedin_url": "https://www.linkedin.com/in/vardanpapikyan/",
-      "twitter_url": ""
-    }
   ]
 }

@@ -30,9 +30,18 @@
       "name": "Ani Vardanyan",
       "desc": "Volunteer",
       "fb_url": "https://www.facebook.com/ani.aria28",
+      "twitter_url": "https://twitter.com/Ani_Aria_28?s=09",
       "linkedin_url": "https://www.linkedin.com/in/ani-vardanyan-399677123/",
       "contribution": "Software Engineer at SuperAnnotate AI",
       "image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/70931185_1733011100168473_189998401008435200_o.jpg?_nc_cat=111&_nc_ohc=fyd8FLJsfZkAQmxJMOLjyalnLP-vnhZD7P5x1w-lmFbFffXWyDRXNK42Q&_nc_ht=scontent.fevn3-2.fna&oh=ae042bf847bdfceca320e8b96b7175e5&oe=5E48F203"
+    },
+    {
+      "name": "Seda Movsisyan",
+      "desc": "Volunteer",
+      "fb_url": "https://www.facebook.com/seda.movsisyan98",
+      "linkedin_url": "https://www.linkedin.com/in/seda-movsisyan/",
+      "contribution": "Software Engineer at NovanoWeb Solutions",
+      "image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/53176158_1232581120239346_1210341609581838336_o.jpg?_nc_cat=102&_nc_ohc=jU6OtTtzSt8AQnNVCzuABog30X4yQzwXlY8ElH6UdMt-fxO46_ZKxnqyQ&_nc_ht=scontent.fevn3-2.fna&oh=4786e53b6e3f4e3908ebee0598a32c6e&oe=5E8157BF"
     },
     {
       "name": "Lusine Gasparyan",
@@ -51,13 +60,5 @@
       "contribution": "Junior HR Specialist at WIC",
       "image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/p960x960/53669223_2089163034536790_316822007800922112_o.jpg?_nc_cat=107&_nc_ohc=wD9zxsIrXi4AQkzwkhngmSZ3_ZwwWZ_SPD4DcR82OU3cyURKL1ee7nDfw&_nc_ht=scontent.fevn3-2.fna&oh=855d3039cdd1460cac061db4c65a32ad&oe=5E7E447C"
     },
-    {
-      "name": "Seda Movsisyan",
-      "desc": "Volunteer",
-      "fb_url": "https://www.facebook.com/seda.movsisyan98",
-      "linkedin_url": "https://www.linkedin.com/in/seda-movsisyan/",
-      "contribution": "Software Engineer at NovanoWeb Solutions",
-      "image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/53176158_1232581120239346_1210341609581838336_o.jpg?_nc_cat=102&_nc_ohc=jU6OtTtzSt8AQnNVCzuABog30X4yQzwXlY8ElH6UdMt-fxO46_ZKxnqyQ&_nc_ht=scontent.fevn3-2.fna&oh=4786e53b6e3f4e3908ebee0598a32c6e&oe=5E8157BF"
-    }
   ]
 }
