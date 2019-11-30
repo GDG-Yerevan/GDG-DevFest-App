@@ -6,7 +6,7 @@
       "fb_url": "https://www.facebook.com/vardan.papikyan",
       "twitter_url": "https://twitter.com/vardanpapikyan",
       "linkedin_url": "https://www.linkedin.com/in/vardanpapikyan",
-      "contribution": "Founder",
+      "contribution": "SEO Consultant at NeoMedia",
       "image": "https://scontent.fevn1-4.fna.fbcdn.net/v/t1.0-9/p960x960/60346696_2338584716206076_7529139929733922816_o.jpg?_nc_cat=101&_nc_oc=AQnu5OtQtYXSMxjcG1L8y4sD-ibDBHlCtDdUArweVI6wd1AsRqy0Dh-5vigxKhRCrHg&_nc_ht=scontent.fevn1-4.fna&oh=904691a59d3333af5ee3d4823eadba3a&oe=5E480B29"
     },
     {
@@ -15,7 +15,7 @@
       "fb_url": "https://www.facebook.com/roland.yeghiazaryan",
       "twitter_url": "https://twitter.com/RolandYeghiazar",
       "linkedin_url": "https://www.linkedin.com/in/roland-yeghiazaryan",
-      "contribution": "Tech Lead",
+      "contribution": "Android Tech Lead at SoloLearn",
       "image": "https://scontent.fevn1-2.fna.fbcdn.net/v/t1.0-9/s960x960/71185800_2438952392825547_2932665134985773056_o.jpg?_nc_cat=100&_nc_oc=AQmxXqTXBMYnqKPsskLa3CEzGs9MjQENCrqivrG91Fv7PQxr71UHnOcOZspt8OHf_6w&_nc_ht=scontent.fevn1-2.fna&oh=62291113af78addde7e95012f50b6c5f&oe=5E8971CB"
     },
     {
@@ -23,8 +23,41 @@
       "desc": "Co-Organizer",
       "fb_url": "https://www.facebook.com/anahit.annie.gharibyan",
       "linkedin_url": "https://www.linkedin.com/in/anahit-gharibyan-2b1153144",
-      "contribution": "PR / Marketing",
+      "contribution": "Game Portfolio Managment Specialist at Digitain Armenia",
       "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t31.0-8/p960x960/28828498_954388058069096_4407791737910387741_o.jpg?_nc_cat=110&_nc_oc=AQkZyFIMIy_xkLy1ToBFD15ISJ9vsb1Cuco27QnTun3fhLg4tSqSIV8I-WqyQwibiCU&_nc_ht=scontent-sof1-1.xx&oh=05cb6b6dcd9b39e0a465cde357f73ffc&oe=5E5C3A2E"
+    },
+    {
+      "name": "Ani Vardanyan",
+      "desc": "Volunteer",
+      "fb_url": "https://www.facebook.com/ani.aria28",
+      "linkedin_url": "https://www.linkedin.com/in/ani-vardanyan-399677123/",
+      "contribution": "Software Engineer at SuperAnnotate AI",
+      "image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/70931185_1733011100168473_189998401008435200_o.jpg?_nc_cat=111&_nc_ohc=fyd8FLJsfZkAQmxJMOLjyalnLP-vnhZD7P5x1w-lmFbFffXWyDRXNK42Q&_nc_ht=scontent.fevn3-2.fna&oh=ae042bf847bdfceca320e8b96b7175e5&oe=5E48F203"
+    },
+    {
+      "name": "Lusine Gasparyan",
+      "desc": "Volunteer",
+      "fb_url": "https://www.facebook.com/lusine.gasparyan.169",
+      "linkedin_url": "https://www.linkedin.com/in/lusine-gasparyan-17956315a/",
+      "contribution": "Software Engineer at ArmSoft",
+      "image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/53400594_1331412347001590_2612394947050995712_o.jpg?_nc_cat=111&_nc_ohc=j2bcIIdUYwEAQkAOx_vyl2llGHQp6cQaUHPNtZ8ACTjWoMrwg0JGW_c0g&_nc_ht=scontent.fevn3-2.fna&oh=73557f53b13b86d173fee342b6894741&oe=5E7BBA70"
+    },
+
+    {
+      "name": "Seda Hakobyan",
+      "desc": "Volunteer",
+      "fb_url": "https://www.facebook.com/seda.hakobyan.90",
+      "linkedin_url": "https://www.linkedin.com/in/seda-hakobyan-b3b4b3172/",
+      "contribution": "Junior HR Specialist at WIC",
+      "image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/p960x960/53669223_2089163034536790_316822007800922112_o.jpg?_nc_cat=107&_nc_ohc=wD9zxsIrXi4AQkzwkhngmSZ3_ZwwWZ_SPD4DcR82OU3cyURKL1ee7nDfw&_nc_ht=scontent.fevn3-2.fna&oh=855d3039cdd1460cac061db4c65a32ad&oe=5E7E447C"
+    },
+    {
+      "name": "Seda Movsisyan",
+      "desc": "Volunteer",
+      "fb_url": "https://www.facebook.com/seda.movsisyan98",
+      "linkedin_url": "https://www.linkedin.com/in/seda-movsisyan/",
+      "contribution": "Software Engineer at NovanoWeb Solutions",
+      "image": "https://scontent.fevn3-2.fna.fbcdn.net/v/t1.0-9/s960x960/53176158_1232581120239346_1210341609581838336_o.jpg?_nc_cat=102&_nc_ohc=jU6OtTtzSt8AQnNVCzuABog30X4yQzwXlY8ElH6UdMt-fxO46_ZKxnqyQ&_nc_ht=scontent.fevn3-2.fna&oh=4786e53b6e3f4e3908ebee0598a32c6e&oe=5E8157BF"
     }
   ]
 }
